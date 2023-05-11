@@ -3,7 +3,6 @@
 
 # ahad commited
 
-# james nah
 =======
 # This is the Read Me.
 
